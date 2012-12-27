@@ -17,6 +17,7 @@ When filter test data: then check first black list of spamers, white list of ham
 email message, start Bayesian algorithm.
 
 TO DO
-Write some algorithm to make work check_common_spamers_pattern module (https://github.com/il-vladislav/RPH/tree/master/SPAM)
+
+Write some algorithm to make work check_common_spamers_pattern module (https://github.com/il-vladislav/SpamFilter/blob/master/common_spamers_pattern.py)
 Try to ignore HTML code, when using Bayesian algorithm.
 There is much thing to do, Machine Learning never stop...
