@@ -7,10 +7,10 @@ Filter uses Bayesian algorithm.
 
 #### PRIORITIES
 
-1) Check  black list of spammers 
-2) Check white list of "hammers"
-3) Check subject spam/ham lists
-4) Start Bayesian algorithm.
+1. Check  black list of spammers 
+2. Check white list of "hammers"
+3. Check subject spam/ham lists
+4. Start Bayesian algorithm.
 
 #### RESULTS
 
