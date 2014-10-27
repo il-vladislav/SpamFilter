@@ -47,7 +47,7 @@ Student iliusvla earned 19.000(maximum ammount) points and is ranked on place 1.
 
 While 425 million (as of June 28th, 2012) users use GMail, this Naive method is effective, but has one little problem: Service provider has to **generate dictionaries for every user individually (for best quality)**. 
 To reduce required storage space there are several techniques: classify all mail to several categories and for every user classify every category as SPAM/HAM. Other technique is to classify all users to several categories 
-and use one dictionary for every category. Analysis of best technique is beyond of this project. 
+and use one dictionary for every category. Analysis of best technique is beyond the scope this project. 
 
 
 #### TO DO
